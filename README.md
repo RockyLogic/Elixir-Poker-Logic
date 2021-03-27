@@ -2,7 +2,7 @@
  Backend logic for poker powered by Elixir
 
 # Functionality 
- Poker hand is fed through as a list of integers representing each card up to 52 <br />
+ Poker hand is fed through as a list of integers representing each card up to 52 <br /> <br />
  Structured as: [h1, h2, h1, h2, T1, T2, T3, T4, T5] <br />
  
  Where h1 are the cards within player1's hands <br />
