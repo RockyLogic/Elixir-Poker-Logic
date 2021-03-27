@@ -338,4 +338,3 @@ end
 
 
 Poker.deal([2, 7, 13, 12, 2, 3, 4, 5, 6])
-#Tie breaker issue with , straights lowest card ace,
