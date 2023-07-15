@@ -1,5 +1,6 @@
 # Elixir-Poker-Logic
  Backend logic for poker powered by Elixir
+ Functional programming paradigm 
 
 # Functionality 
  Poker hand is fed through as a list of integers representing each card up to 52 <br /> <br />
